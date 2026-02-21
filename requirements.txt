@@ -1,0 +1,10 @@
+pandas==2.3.3
+numpy==2.3.5
+scikit-learn==1.8.0
+shap==0.50.0
+streamlit==1.53.1
+fastapi[standard] ## not sure what version
+##kaggle==1.8.3
+kagglehub==0.4.1
+seaborn==0.13.2
+skops==0.13.0
